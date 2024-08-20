@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries or issues, feel free to contact me at [sharmaps@rknec.edu](mailto:sharmaps@rknec.edu).
+For any queries or issues, feel free to contact me at [20sharmaparshav@gmail.com](mailto: 20sharmaparshav@gmail.com).
 
 ---
 
